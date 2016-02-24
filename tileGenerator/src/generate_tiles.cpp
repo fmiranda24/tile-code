@@ -21,4 +21,3 @@ int generateTiles(double radius, double totalArea){
 	return requiredHexagons;
 
 }
-
